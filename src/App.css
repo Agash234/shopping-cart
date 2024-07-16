@@ -1,0 +1,54 @@
+body{
+    font-family:arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    text-align: center;
+}
+.App-header{
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+}
+main{
+    padding: 20px;
+}
+h1{
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    background: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border:1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+}
+li h2{
+    font-size: 1.5em;
+    margin: 0;
+
+}
+li p{
+    margin: 10px 0 0;
+    font-family: arial,sans-serif;
+}
+li img{
+    display: block;
+    color: #333;
+
+}
+Link{
+    text-decoration:none ;
+    color: #333;
+}
+Link:hover{
+    color: #007bff;
+}
